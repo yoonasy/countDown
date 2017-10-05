@@ -1,0 +1,32 @@
+{
+  "name": "yoonasy_countdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "countDown.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoonasy/countDown.git"
+  },
+  "author": "yoonasy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoonasy/countDown/issues"
+  },
+  "homepage": "https://github.com/yoonasy/countDown#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^3.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
